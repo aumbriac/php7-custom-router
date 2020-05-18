@@ -2,7 +2,7 @@
 Simple, fast custom PHP MVC router
 
 1) Place all files (index.php & the views folder) into the localhost root directory
-2) Create a .htaccess file and place it in the root folder. The .htaccess file must have the following code:<br><b>
+2) Create a .htaccess file and place it in the localhost root directory. The .htaccess file must have the following code:<br><b>
 RewriteEngine On<br>
 RewriteBase /<br>
 RewriteCond %{REQUEST_FILENAME} !-d<br>
