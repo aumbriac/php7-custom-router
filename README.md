@@ -3,7 +3,7 @@ Simple, fast custom PHP router
 
 1) Place all files (index.php & the views folder) into the localhost root directory
 2) Create a .htaccess file and place it in the root folder. The .htaccess file will have the following code: 
-`RewriteEngine On<br>
+RewriteEngine On<br>
 RewriteBase /<br>
 RewriteCond %{REQUEST_FILENAME} !-d<br>
 RewriteCond %{REQUEST_FILENAME} !-f<br>
