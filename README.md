@@ -1,4 +1,4 @@
-# php7-custom-router
+# php-custom-router
 Simple, fast custom PHP MVC router
 
 1) Place all files (index.php & the views folder) into the localhost root directory
